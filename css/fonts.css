@@ -1,0 +1,39 @@
+
+@font-face {
+    font-family: 'google_sansregular';
+    src: url('../fonts/googlesans-regular-webfont.eot');
+    src: url('../fonts/googlesans-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/googlesans-regular-webfont.woff2') format('woff2'),
+         url('../fonts/googlesans-regular-webfont.woff') format('woff'),
+         url('../fonts/googlesans-regular-webfont.ttf') format('truetype'),
+         url('../fonts/googlesans-regular-webfont.svg#google_sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'google_sansmedium';
+    src: url('../fonts/googlesans-medium-webfont.eot');
+    src: url('../fonts/googlesans-medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/googlesans-medium-webfont.woff2') format('woff2'),
+         url('../fonts/googlesans-medium-webfont.woff') format('woff'),
+         url('../fonts/googlesans-medium-webfont.ttf') format('truetype'),
+         url('../fonts/googlesans-medium-webfont.svg#google_sansmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'google_sansbold';
+    src: url('../fonts/googlesans-bold-webfont.eot');
+    src: url('../fonts/googlesans-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/googlesans-bold-webfont.woff2') format('woff2'),
+         url('../fonts/googlesans-bold-webfont.woff') format('woff'),
+         url('../fonts/googlesans-bold-webfont.ttf') format('truetype'),
+         url('../fonts/googlesans-bold-webfont.svg#google_sansbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
